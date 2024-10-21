@@ -22,8 +22,8 @@ Organizo é um aplicativo Electron para gerenciamento de tarefas, projetado para
 
 ## Contribuindo
 
-Interessado em contribuir? Ótimo! Confira nosso [guia de contribuição](CONTRIBUTING.md) para começar.
+Interessado em contribuir? Ótimo! Confira nosso [guia de contribuição](/CONSTRIBUTING.md) para começar.
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](/LICENSE) para detalhes.
